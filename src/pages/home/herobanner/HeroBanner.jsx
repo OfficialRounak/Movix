@@ -10,6 +10,7 @@ import './style.scss';
 
 
 
+
 const HeroBanner = () => {
   const navigate = useNavigate();
   const { url } = useSelector((state) => state.home);
