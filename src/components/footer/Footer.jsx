@@ -22,12 +22,11 @@ const Footer = () => {
                     <li className="menuItem">FAQ</li>
                 </ul>
                 <div className="infoText">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                    ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur.
+                    When using any of our products or interacting with themoviedb.org which is owned and operated by Xperi Inc., or any of our subsidiaries or affiliates that link to this Privacy Policy (collectively, "TMDB," "we," "our", or "us") that do not have a separate privacy policy, you consent to the collection, transfer, storage, processing, disclosure and use of your information as described in this Privacy Policy. This includes any information you choose to provide that is deemed sensitive under applicable law. If you do not agree with the terms of this Privacy Policy, you should not use TMDB products (a TMDB account or API access), or access or interact with any other aspect of TMDB's business.
+
+                    We collect and process data that we use to provide you with TMDB products, notify you of changes to our policies or products, identify or troubleshoot issues, conduct surveys, improve the products we provide to you, market and advertise our products including providing advertising to you, and otherwise operate our business. Your rights to your personal data and its collection and use are outlined in this policy.
+
+                    If you have a disability and need this policy provided to you in a different format, please email privacy@xperi.com.
                 </div>
                 <div className="socialIcons">
                     <span className="icon">
