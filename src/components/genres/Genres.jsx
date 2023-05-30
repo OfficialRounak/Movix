@@ -8,10 +8,10 @@ const Genres = ({data}) => {
 
   return (
     <div className='genres'>
-        {data?.map((gid)=>{
+        {data?.map((gid, index)=>{
             if(!genres[gid]?.name) return;
             return(
-                <div className="genre">
+                <div className="genre" key={index}>
                     {genres[gid]?.name}
                 </div>
             )
